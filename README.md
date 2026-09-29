@@ -119,6 +119,8 @@ Valor total do estoque: R$ 1250.00
 ```
 # Autor e Contato
 **Arthur lucas de souza**
-[Email]arthur.l.souza23@gmail.com[mailto:arthur.l.souza23@gmail.com]
-[gihub]Arth84
-[linkedin]Arthur-lucas3222
+[**Email**](mailto:arthur.l.souza23@gmail.com)
+[**gihub**](Arth84)
+[**linkedin**](http://www.linkedin.com/in/arthur-lucas3222)
+
+
