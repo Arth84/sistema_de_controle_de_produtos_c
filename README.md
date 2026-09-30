@@ -122,7 +122,7 @@ Valor total do estoque: R$ 1250.00
 
 [**Email**](mailto:arthur.l.souza23@gmail.com) 
 
-[**gihub**](https://github.com/Arth84)) 
+[**gihub**](https://github.com/Arth84)
 
 [**linkedin**](http://www.linkedin.com/in/arthur-lucas3222) 
 
